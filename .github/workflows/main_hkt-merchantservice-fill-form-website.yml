@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'HKT-MerchantService-Fill-Form-Website'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E4E2325E08841E4B5BD3699BB332F1A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F2A0FFAB22AE4C87BED725D64A4458B3 }}
